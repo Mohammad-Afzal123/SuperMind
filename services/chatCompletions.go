@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Biskwit/langflow-openai-proxy/types"
-	"github.com/Biskwit/langflow-openai-proxy/utils"
+	"github.com/Mohammad-Afzal123/langflow-openai-proxy/types"
+	"github.com/Mohammad-Afzal123/langflow-openai-proxy/utils"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 )
