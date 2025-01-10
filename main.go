@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Biskwit/langflow-openai-proxy/controllers"
-	"github.com/Biskwit/langflow-openai-proxy/middlewares"
+	"github.com/Mohammad-Afzal123/langflow-openai-proxy/controllers"
+	"github.com/Mohammad-Afzal123/langflow-openai-proxy/middlewares"
 
 	ratelimit "github.com/JGLTechnologies/gin-rate-limit"
 	"github.com/gin-contrib/cors"
