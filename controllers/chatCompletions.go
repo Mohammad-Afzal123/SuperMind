@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"github.com/Biskwit/langflow-openai-proxy/services"
-	"github.com/Biskwit/langflow-openai-proxy/types"
+	"github.com/Mohammad-Afzal123/langflow-openai-proxy/services"
+	"github.com/Mohammad-Afzal123/langflow-openai-proxy/types"
 	"github.com/gin-gonic/gin"
 )
 
