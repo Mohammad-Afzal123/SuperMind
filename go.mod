@@ -1,4 +1,4 @@
-module github.com/Biskwit/langflow-openai-proxy
+module github.com/Mohammad-Afzal123/langflow-openai-proxy
 
 go 1.23.1
 
